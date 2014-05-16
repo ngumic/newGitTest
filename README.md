@@ -1,2 +1,4 @@
 newGitTest
 ==========
+hello
+test
